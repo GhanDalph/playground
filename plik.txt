@@ -4,3 +4,4 @@ dodawanie nowej galazki
 powtarzanie, powtarzanie
 dodanie tekstu 1
 dodanie tekstu 2
+feature-test branch tekst1
